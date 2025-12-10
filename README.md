@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ethan Seiz
 
-I'm a student at Brown University interested in building tools that help people and improve their daily lives. My research interests lie in computational fabrication, computer vision, deep learning, and application-specific integrated circuits. Outside of research, I also develop full-stack websites and iOS apps, and have extensive experience in designing and building robots.
+I'm a student at Brown University interested in building tools that help people and improve their daily lives. Before transferring to Brown this year, I was a Freshman at Cornell University, and before that, I grew up in New York City. My research interests lie in computational fabrication, computer vision, deep learning, and application-specific integrated circuits. Outside of research, I also work on Project Teams and indiviudal projects, where I've developed full-stack websites and iOS apps, and design and build robots and assistive technology.
 
 Welcome to my engineering portfolio, where I highlight some of the projects I’ve had the privilege to work on. 
 
@@ -9,8 +9,21 @@ Welcome to my engineering portfolio, where I highlight some of the projects I’
 # 🔬 Research
 
 ## **CeraPiper — ACM SCF ’25 (MIT)**  
-**p5.js • Flask • Python • WebGL • Human–Computer Interaction**  
-🔗 Repo: <YOUR_LINK> | Paper: Accepted to ACM Symposium on Computational Fabrication 2025  
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/fuzzycad_demo1.png" width="90%"><br>
+      <em>Uncertainty overlays in an Onshape assembly</em>
+    </td>
+    <td align="center">
+      <img src="images/fuzzycad_demo2.png" width="90%"><br>
+      <em>Interactive metadata panel</em>
+    </td>
+  </tr>
+</table>
+
+**JavaScript/HTML/CSS • Flask • Python • WebGL • Computer-Aided Manufacturing**  
+🔗 Repo: <https://github.com/matteroftech/CeraPipes> | Paper: Accepted to ACM Symposium on Computational Fabrication 2025  
 Second author on *CeraPiper*, a computational design tool for fabricating ceramic evaporative cooling pipes.  
 - Co-developed interface with programmable extrusion profiles and real-time WebGL rendering.  
 - Implemented backend–device communication (JSON → PySerial → Arduino → stepper motors).  
