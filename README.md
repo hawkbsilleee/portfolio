@@ -17,20 +17,22 @@ Welcome to my engineering portfolio, where I highlight some of the projects I've
 
 ---
 
+<br>
+
 # 🔬 Research
 
 ## **CeraPiper — Cornell Tech, Matter of Tech Lab, Digital Fabrication**  
 
-<table>
-  <tr>
-    <td align="center">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <img src="images/cerapiper/demo_gif.gif" width="90%"><br>
       <em>Rapid prototyping with CeraPiper, demoed at the 2025 ACM Symposium on Computational Fabrication at MIT</em>
     </td>
   </tr>
 </table>
 
-**Tech:** JavaScript/HTML/CSS • Flask • Python • WebGL • Computer-Aided Manufacturing  
+**JavaScript/HTML/CSS • Flask • Python • WebGL • Computer-Aided Manufacturing**  
 
 🔗 **Repo (Private):** https://github.com/matteroftech/CeraPipes  
 🔗 **Paper:** https://doi.org/10.1145/3745778.3766644  
@@ -83,16 +85,16 @@ rendering with **p5.js (WebGL)**, enabling real-time design of programmable cera
 
 ## **FuzzyCAD - Cornell Tech, Matter of Tech Lab, Digital Fabrication**  
  
-<table>
-  <tr>
-    <td align="center">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <img src="images/fuzzyCAD/shot1.png" width="90%"><br>
       <em>Enables users to attach images and text to parts and visualize what a part might look like with different dimensions.</em>
     </td>
   </tr>
 </table>
 
-**Tech:** Onshape Extension • FeatureScript • Glassworks API • Google Gemini • Flask • Python
+**Onshape Extension • FeatureScript • Glassworks API • Google Gemini • Flask • Python**
 
 🔗 **Repo (Private):** https://github.com/matteroftech/fuzzyCAD                                 
 🔗 **Try it (limited version):** https://cad.onshape.com/documents/675083deffb7a5bc4cd1e66e/w/2c3c5056863a478c4f4c6939/e/c37bdf8a1762a26ddde6af45  
@@ -134,16 +136,16 @@ FuzzyCAD is an Onshape extension for collaboration between engineering and non-e
 
 ## **Subchondral Bone Scan Deep Learning Segmentation — Cornell, Estroff Lab, Material Science**  
 
-<table>
-  <tr>
-    <td align="center">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
       <img src="images/estroff/segmentation-result.png" width="90%"><br>
       <em>Example multi-ROI segmentation result</em>
     </td>
   </tr>
 </table>
 
-**Tech:** Deep Learning • Image Segmentation • Dragonfly 3D • Macros • Image Processing
+**Deep Learning • Image Segmentation • Dragonfly 3D • Macros • Image Processing**
 
 🔗 Estroff Group: <https://estroff.mse.cornell.edu/>  
 
@@ -157,17 +159,17 @@ I contributed to the subchondral bone project investigating how osteocyte networ
 - Applied **Otsu thresholding** and **Kuwahara filtering** to denoise imaging data, improving segmentation accuracy by **50%**.  
 - Built automated preprocessing, augmentation, and inference pipelines.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/estroff/IMG_1BC0D7BF9E40-1.jpeg" width="100%"><br>
-      <em>Image segmentation pipe</em>
+      <em>Image segmentation pipeline</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/estroff/IMG_422B951B84E3-1.jpeg" width="100%"><br>
       <em>Human bone samples</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/estroff/IMG_2710.jpg" width="100%"><br>
       <em>Processed ROIs ready for morphological analysis</em>
     </td>
@@ -209,25 +211,25 @@ Designed and simulated neural network accelerators using variable resistors to s
 
 ## **VitalHide — Cornell Tech, Matter of Tech Lab, CS+Mechanical Engineering**  
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/vitalHide/IMG_5603-ezgif.com-video-to-gif-converter.gif" width="100%"><br>
       <em>TPU 3D-printed prototype inflating</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/vitalHide/IMG_2353.jpeg" width="100%"><br>
-      <em>3D-printed mold protoype</em>
+      <em>3D-printed mold prototype</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/vitalHide/IMG_3273.jpg" width="100%"><br>
-      <em>Silicon prototype getting tested with ultrasonic sensors</em>
+      <em>Silicon prototype tested with ultrasonic sensors</em>
     </td>
   </tr>
 </table>
 
 
-**Tech**: Fusion360 • 3D-Printing • Laser-Cutting • Silicon-Molding • Python  
+**Fusion360 • 3D-Printing • Laser-Cutting • Silicon-Molding • Python**  
 
 🔗 VitalHide Article: https://tech.cornell.edu/news/vitalhide/ 
 
@@ -242,16 +244,16 @@ During my internship in Cornell Tech's Matter of Tech Lab, I helped develop Vita
 
 ## **Simulating Decentralized, Physics-Driven Learning — Electrical and Computer Engineering** 
 
-<table>
-  <tr>
-    <td align="center" width="100%">
-      <img src="images/pioneer/resistor-network-situ.png" width="100%"><br>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="images/pioneer/resistor-network-situ.png" width="90%"><br>
       <em>Resistor network in situ</em>
     </td>
   </tr>
 </table>
 
-**Tech:** Circuit Simulation • Python • Literature Review
+**Circuit Simulation • Python • Literature Review**
 
 🔗 **Report:** [Simulating Decentralized, Physics-Driven Learning](images/pioneer/Simulating%20Decentralized,%20Physics-Driven%20Learning.pdf)
 
@@ -262,13 +264,13 @@ I was admitted to the Pioneer Academics Research Program and conducted computer 
 I designed and simulated networks of variable resistors capable of learning without a central processor, inspired by physics-driven contrastive learning schemes proposed by Sam Dillavou et al. at UPenn. Using Python and circuit simulation tools, I modeled resistor networks as analog neural networks and implemented decentralized optimization to replace traditional gradient descent that is typically handled by a centralized processor. I evaluated the efficiency, scalability, and robustness across different network architectures, demonstrating that these physical systems can approximate machine learning algorithms. My work culminated in a 20-page thesis, and I presented my findings to postdoctoral researcher Sam Dillavou.
 
 
-<table>
-  <tr>
-    <td align="center" width="50%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/pioneer/resistor-network.png" width="100%"><br>
-      <em>Resistor network constructed in Circuit Simulation Software</em>
+      <em>Resistor network constructed in circuit simulation software</em>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/pioneer/training-circuits.png" width="100%"><br>
       <em>Training and reinforcement learning circuits</em>
     </td>
@@ -277,31 +279,66 @@ I designed and simulated networks of variable resistors capable of learning with
 
 ---
 
+## **Rapid Concussion Test & Vision Rehabilitation Research — Padula Institute for Vision Rehabilitation**
+
+**Flask • Python • JavaScript • HTML/CSS • Visual Neuroscience**
+
+🔗 **Repo:** https://github.com/hawkbsilleee/Rapid-Concussion-Test
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/padula/start.png" width="100%"><br>
+      <em>Uses can specify the type of visual test to run</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/padula/middle.png" width="100%"><br>
+      <em>This is what a contrast test looks like; line contrast is increased over time in a randomly-chosen quadrant</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/padula/end.png" width="100%"><br>
+      <em>Result are provided to the user at the end, measuring their reaction time and accuracy</em>
+    </td>
+  </tr>
+</table>
+
+### ⭐ Overview  
+During my summer internship at the Padula Institute for Vision Rehabilitation (June–August 2023), I worked as a Research Intern focusing on vision rehabilitation for patients with neurological conditions. I conducted clinical visual color field tests on patients with traumatic brain injury (TBI), Lyme disease, cerebral palsy, and other neurological conditions, while also designing and conducting experimental research to assess the impact of TBI and Lyme disease on constricting the visual peripheral system.
+
+### 🔧 Technical Contributions  
+- **Developed Rapid Concussion Test**, a Flask-based web application hosting a prototype rapid concussion assessment tool using varying sine wave patterns. The application presents two testing modes (thickness test and contrast test) that display sinusoidal patterns varying in thickness or contrast over time, with users focusing on a central target that flashes random numbers.
+- Implemented **real-time visual pattern detection** with JavaScript and CSS animations, enabling users to identify and click on the quadrant where they detect the sine wave pattern.
+- Designed **experimental research study protocols** to assess visual peripheral system constriction in patients with TBI and Lyme disease, contributing to ongoing research at the institute.
+- Ran **clinical visual color field tests** on patients with various neurological conditions, collecting data to support vision rehabilitation research.
+
+---
+
+<br>
 
 # 🏎️ Project Teams
 
 ## **Brown Formula Racing — DRS Algorithms Engineer**  
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/drs/drs_analysis6.png" width="100%"><br>
-      <em>The algorithm's predicted activations based on sensing data</em>
+      <em>Algorithm's predicted activations based on sensing data</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/drs/simulator.png" width="100%"><br>
       <em>Applied Racing Dynamics Lab Simulator</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/drs/actuator-cad.png" width="100%"><br>
       <em>DRS linear actuator CAD</em>
     </td>
   </tr>
 </table>
 
-**Tech:** C++ • MoTeC ECU • Real-Time Systems**  
+**C++ • MoTeC ECU • Real-Time Systems**  
 
-I work on the algorithms team of the DRS subteam. My goal is to the use data from the onboard sensors (brake sensor and IMU) to determine the optimal time to open and close the DRS flap of the car. 
+I work on the algorithms team of the DRS subteam. My goal is to use data from the onboard sensors (brake sensor and IMU) to determine the optimal time to open and close the DRS flap of the car. 
 
 ### 🔧 Contributions  
 - Writing **real-time C++ control algorithms** on MoTeC's ECU.
@@ -311,56 +348,56 @@ I work on the algorithms team of the DRS subteam. My goal is to the use data fro
 
 ## **Full Stack at Brown — Software Engineer**  
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/fullstack/landing-page.png" width="50%"><br>
-      <em>Landing page of the website we just developed for Project BRYTE</em>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="images/fullstack/landing-page.png" width="70%"><br>
+      <em>Landing page of the website we developed for Project BRYTE</em>
     </td>
   </tr>
 </table>
 
-**Tech:** React • TypeScript • Cosmic CMS • Full Stack Development  
+**React • TypeScript • Cosmic CMS • Full Stack Development**  
 
 ### ⭐ Overview  
 Full Stack is club of students who build websites for non-profits, student organizations, and research groups. This semester I helped build a website for Project BRYTE, which matches Brown student tutors with K-12 refugee students in Providence.
 
 ### 🔧 Contributions  
-- Integrated TypeScript backend with CosmicCMS so that our client could easily editing the content of the website.  
-- Programmed React pages that dynamically update content from CosmicCMS backend
+- Integrated TypeScript backend with CosmicCMS so that our client could easily edit the content of the website.  
+- Programmed React pages that dynamically update content from CosmicCMS backend.
 - Built contact, home, and FAQ pages with React and Radix UI components.
 
 ---
 
 ## **Cornell Assistive Technologies — Software & Electrical Engineer** 
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/cornellassist/joystick-hack.png" width="100%"><br>
       <em>"Hacking" a joystick to better accommodate the needs of its owner</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/cornellassist/tactile-blocks.png" width="100%"><br>
       <em>3D-printed tactile coding blocks</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/cornellassist/pcb-watch.png" width="100%"><br>
       <em>Custom PCB for the sensory-overload watch</em>
     </td>
   </tr>
 </table>
 
-**Tech:** Python • C++ • Arduino • ML • Embedded Systems • CAD • PCB Design
+**Python • C++ • Arduino • ML • Embedded Systems • CAD • PCB Design**
 
 ### ⭐ Overview
 As a member of the Cornell Assistive Technologies Project Team during my freshman year, I worked on 1) developing a smartwatch to detect sensory overloads in advance, 2) an inexpensive EEG-controlled electric wheelchair for paralyzed individuals, and 3) tactile coding blocks which are 3D-printed physical pieces that teach foundational programming concepts to the visually-impaired. I also volunteered at toy adapting events to modify toys for children with disabilities in Ithaca.
 
 ### 🔧 Contributions  
 - Programmed ML algorithms to detect sensory overloads and map brainwaves to movement in Python and C++
-- Designed/fabricated housing parts for the sensory overload watch using CAD and 3D printers 
-- Design PCB for the watch using Fusion360 and KiCAD and soldered electrical components of the device onto the board.
-- Designed and 3D printed tactile coding blocks
+- Designed and fabricated housing parts for the sensory overload watch using CAD and 3D printers. 
+- Designed PCB for the watch using Fusion360 and KiCAD and soldered electrical components of the device onto the board.
+- Designed and 3D printed tactile coding blocks.
 
 ---
 
@@ -368,16 +405,17 @@ As a member of the Cornell Assistive Technologies Project Team during my freshma
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="images/nibbler/group.png" width="100%"><br>
-      <!-- <em>"Hacking" a joystick to better accommodate the needs of its owner</em> -->
+    <td align="center">
+      <img src="images/nibbler/group.png" width="70%"><br>
+      <em>The Nibbler team</em>
     </td>
   </tr>
 </table>
 
-**Tech:** CAD • 3D Printing • Laser Cutting • Python • UV-Activated Resin • Recycling Systems
+**CAD • 3D Printing • Laser Cutting • Python • UV-Activated Resin • Recycling Systems**
 
-🔗 **Article:**https://www.avenues.org/world-of-avenues/the-nibbler-project2
+🔗 **Article:** https://www.avenues.org/world-of-avenues/the-nibbler-project2          
+🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler
 
 ### ⭐ Overview  
 As an intern with the Avenues Tiger Works R&D Team, I worked on Project Nibbler, developing a household waste converter in collaboration with colleagues in Brazil and across the US. I led the New York team, coordinating with international team members to advance this sustainability initiative.
@@ -393,17 +431,17 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 - Experimented with binders such as UV-activated resin and researched recycling system inefficiencies
 - Developed custom slicing software in Python for generating custom 3D printer tool paths
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/nibbler/IMG_1561.jpeg" width="100%"><br>
       <em>The Nibbler machine printing</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/nibbler/nibbler_image_1.jpeg" width="100%"><br>
       <em>Printed flower pot</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/nibbler/shredder.jpeg" width="100%"><br>
       <em>Shredder shredding cardboard</em>
     </td>
@@ -413,50 +451,60 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 ---
 
 ## **Avenues Robotics (FTC) — President**  
-**CAD • Fabrication • Java • Computer Vision**  
-
-### ⭐ Highlights  
-- Led school's largest engineering club (**90+ members**), mentoring **8 FTC teams** in CAD, fabrication, and Java programming.  
-- Designed the robot using Fusion360 and Onshape; fabricated components via 3D-printing, Later-cutting, and CNC-milling 
-- Programmed computer-vision algorithm in Java to detect the color of game-elements the robot collected in constant time; programmed data-logging script in Java to analyze the intake speed under different drivetrain power draws 
-- Competed at the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams) and placed 1st overall at NYC Championships.  
-- Taught **40+ workshops** for low-income students and raised **$4K** to start an FIRST Lego Robotics (FLL) team for the Hudson Guild, a local community center; coached this FLL team (the Hudson Guild heat) during my senior year
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
+      <img src="images/robotics/IMG_7257.JPG" width="70%"><br>
+      <em>Avenues Robotics team at competition</em>
+    </td>
+  </tr>
+</table>
+
+**CAD • Fabrication • Java • Computer Vision**  
+
+🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler
+
+**🏆 Recognition:** Won NYC Championships, advanced to the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams); Won several awards at competition including Inspire, Think, Motivate, Connect, and Design
+
+### ⭐ Highlights  
+- Led school's largest engineering club (**90+ members**), mentoring **8 FTC teams** in CAD, fabrication, and Java programming.  
+- Designed the robot using Fusion360 and Onshape; fabricated components via 3D-printing, laser-cutting, and CNC-milling. 
+- Programmed computer-vision algorithm in Java to detect the color of game-elements the robot collected in constant time; programmed data-logging script in Java to analyze the intake speed under different drivetrain power draws. 
+- Competed at the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams) and placed 1st overall at NYC Championships.  
+- Taught **40+ workshops** for low-income students and raised **$4K** to start an FIRST Lego Robotics (FLL) team for the Hudson Guild, a local community center; coached this FLL team (the Hudson Guild heat) during my senior year
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/robotics/IMG_3632.jpeg" width="100%"><br>
-      <em>The Nibbler machine printing</em>
+      <em>FTC robot in action</em>
     </td>
-    <td align="center" width="33%">
-      <img src="images/nibbler/nibbler_image_1.jpeg" width="100%"><br>
-      <em>Printed flower pot</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="images/nibbler/shredder.jpeg" width="100%"><br>
-      <em>Shredder shredding cardboard</em>
+    <td align="center" width="50%" style="border: none;">
+      <img src="images/robotics/IMG_7257.JPG" width="100%"><br>
+      <em>Team at competition</em>
     </td>
   </tr>
 </table>
 
 ---
 
-# 🧪 Independent Projects
+<br>
 
----
+# 🧪 Independent Projects
 
 ## **Tick Spotter — Computer Vision Project**  
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/tickSpotter/landing-page.png" width="50%"><br>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <img src="images/tickSpotter/landing-page.png" width="70%"><br>
       <em>Example output from the CNN</em>
     </td>
   </tr>
 </table>
 
-**Tech**: TechPython • TensorFlow • Keras • YOLO • OpenCV
+**Python • TensorFlow • Keras • YOLO • OpenCV**
 
 🔗 Repo: <https://github.com/hawkbsilleee/Tick-Spotter-AI>  
 
@@ -473,24 +521,24 @@ A multi-class tick (the insect) identification system trained on a 15,000-image 
 
 ## **Red Retriever — Full-Stack iOS Lost-and-Found App**  
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/redRetriever/393470813-544ebe78-acac-4937-88ad-41f1a336d94b.jpeg" width="100%"><br>
-      <em></em>
+      <em>Lost item feed</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/redRetriever/393470833-4d8c281c-3b66-4a58-98b0-ad710d9bdbf2.jpeg" width="100%"><br>
-      <em></em>
+      <em>Found item posting</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/redRetriever/393473377-41d711dd-1598-466f-9b13-18bf31fc6be3.png" width="100%"><br>
-      <em></em>
+      <em>Leaderboard feature</em>
     </td>
   </tr>
 </table>
 
-**Tech:** Swift • Flask • SQL • REST API • NLP • Figma
+**Swift • Flask • SQL • REST API • NLP • Figma**
 
 🔗 Repo: <https://github.com/hawkbsilleee/RedRetriever>  
 
@@ -505,17 +553,17 @@ Competed in an iOS development hackathon, creating a lost-and-found platform for
 
 ## **MintBox — Co-Founder & President**
 
-<table>
-  <tr>
-    <td align="center" width="33%">
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/mintbox/kithomesquare.png" width="100%"><br>
       <em>The Baby Sprout gardening kit</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/mintbox/plasquare.png" width="100%"><br>
       <em>Self-watering gardening planter</em>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/mintbox/caddingplanter.png" width="100%"><br>
       <em>CAD design for the self-watering gardening planter</em>
     </td>
@@ -524,25 +572,33 @@ Competed in an iOS development hackathon, creating a lost-and-found platform for
 
 🔗 **Website:** https://www.mintboxny.com
 
+**🏆 Recognition:** Won the SeedBank entrepreneurship grant twice and the Lawrenceville Welles Award
+
 ### ⭐ Overview  
 I co-founded and lead MintBox, a project aimed at democratizing access to fresh produce in NYC through sustainable and easy-to-use gardening products. Since April 2020, MintBox has raised over **$2.5K** from selling gardening kits online and in-person at farmers' markets.
 
 ### 🔧 Contributions  
-- **Co-founded MintBox** to make fresh produce accessible through sustainable gardening solutions
-- **Raised over $2.5K** from selling gardening kits online (www.mintboxny.com) and in-person at farmers' markets
-- **Donate profits** to build indoor gardening planters for the Hudson Guild Fulton Center
-- **Hold workshops** to teach plant science and nutrition to elementary school students
-- **Donate gardening kits** to the Covenant House youth homeless shelters across NYC
+- Co-founded MintBox to make fresh produce accessible through sustainable gardening solutions
+- Raised over **$2.5K** from selling gardening kits online and in-person at farmers' markets
+- Donated profits to build indoor gardening planters for the Hudson Guild Fulton Center
+- Held workshops to teach plant science and nutrition to elementary school students
+- Donated gardening kits to the Covenant House youth homeless shelters across NYC
 
 ---
 
 ---
+
+<br>
 
 # 📫 Contact
 
-**Email:** ethan_seiz@brown.edu  
-**LinkedIn:** https://www.linkedin.com/in/ethan-seiz  
-**GitHub:** https://github.com/hawkbsilleee  
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:ethan_seiz@brown.edu">ethan_seiz@brown.edu</a><br>
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ethan-seiz" target="_blank">linkedin.com/in/ethan-seiz</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/hawkbsilleee" target="_blank">github.com/hawkbsilleee</a>
+</p>
 
-Thanks for stopping by — feel free to reach out!
+<p align="center">
+  <em>Thanks for stopping by — feel free to reach out!</em>
+</p>
 
