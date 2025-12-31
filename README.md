@@ -417,6 +417,8 @@ As a member of the Cornell Assistive Technologies Project Team during my freshma
 🔗 **Article:** https://www.avenues.org/world-of-avenues/the-nibbler-project2          
 🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler
 
+**🏆 Recognition:** Won Best in Class in NASA's Waste to Base Materials Challenge, filed US Patent (Application No.: 17/316,887)
+
 ### ⭐ Overview  
 As an intern with the Avenues Tiger Works R&D Team, I worked on Project Nibbler, developing a household waste converter in collaboration with colleagues in Brazil and across the US. I led the New York team, coordinating with international team members to advance this sustainability initiative.
 
@@ -434,7 +436,7 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="33%" style="border: none;">
-      <img src="images/nibbler/IMG_1561.jpeg" width="100%"><br>
+      <img src="images/nibbler/ag6ela.gif" width="100%"><br>
       <em>The Nibbler machine printing</em>
     </td>
     <td align="center" width="33%" style="border: none;">
@@ -474,15 +476,29 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 - Competed at the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams) and placed 1st overall at NYC Championships.  
 - Taught **40+ workshops** for low-income students and raised **$4K** to start an FIRST Lego Robotics (FLL) team for the Hudson Guild, a local community center; coached this FLL team (the Hudson Guild heat) during my senior year
 
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
+    <td align="center" width="33%" style="border: none;">
       <img src="images/robotics/IMG_3632.jpeg" width="100%"><br>
-      <em>FTC robot in action</em>
+      <em>Robot in action</em>
     </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="images/robotics/IMG_7257.JPG" width="100%"><br>
-      <em>Team at competition</em>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/robotics/stress-test.png" width="900"><br>
+      <em>Stress testing our CNC-milled aluminum side plates in Fusion 360</em>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="25%" style="border: none;">
+        <img src="images/robotics/odometry.png" width="100%"><br>
+        <em>3 dead wheels (odometry pods) track the robot's position. We modelled motor dynamics to calculate voltage output for a target velocity. With a PID controller to correct position, our robot could follow paths accurately autonomously.</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/robotics/full-render.png" width="100%"><br>
+      <em>I helped design the robot fully in Onshape and rendered it with Fusion 360</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+        <img src="images/robotics/april-tag.png" width="100%"><br>
+        <em>We used computer vision (OpenCV) to detect in game elements. We also re-localized using the backdrop april tags by transforming the displacement about the heading of the robot.</em>
     </td>
   </tr>
 </table>
