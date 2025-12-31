@@ -414,9 +414,10 @@ As a member of the Cornell Assistive Technologies Project Team during my freshma
 
 **CAD • 3D Printing • Laser Cutting • Python • UV-Activated Resin • Recycling Systems**
 
-🔗 **Article:** https://www.avenues.org/world-of-avenues/the-nibbler-project2          
+🔗 **Article:** https://www.avenues.org/world-of-avenues/the-nibbler-project2         
 🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler
-
+🔗 **NASA Award Article:** https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-names-winners-in-waste-to-base-materials-challenge/
+ 
 **🏆 Recognition:** Won Best in Class in NASA's Waste to Base Materials Challenge, filed US Patent (Application No.: 17/316,887)
 
 ### ⭐ Overview  
@@ -465,7 +466,8 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 
 **CAD • Fabrication • Java • Computer Vision**  
 
-🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler
+🔗 **CV Repo:** https://github.com/hawkbsilleee/FTC-CV         
+🔗 **Power-draw Analysis Repo:** https://github.com/hawkbsilleee/FTC-Data-logging
 
 **🏆 Recognition:** Won NYC Championships, advanced to the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams); Won several awards at competition including Inspire, Think, Motivate, Connect, and Design
 
@@ -485,6 +487,10 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
     <td align="center" width="33%" style="border: none;">
       <img src="images/robotics/stress-test.png" width="900"><br>
       <em>Stress testing our CNC-milled aluminum side plates in Fusion 360</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/robotics/intake.png" width="900"><br>
+      <em>Analyzed intake speed during maximum drivetrain power-draw in order to optimize intake capabilities</em>
     </td>
   </tr>
   <tr style="border: none;">
