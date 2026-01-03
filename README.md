@@ -11,7 +11,7 @@
 
 <!-- # 👋 Hi, I'm Ethan Seiz -->
 
-I'm a student at Brown University interested in building tools that help people and improve their daily lives. Before transferring to Brown, I did my Freshman at Cornell University, and before that, I grew up in New York City. My research interests lie in computational fabrication, computer vision, deep learning, and application-specific integrated circuits. Outside of research, I also work on Project Teams and individual projects, where I've developed full-stack websites and iOS apps, and design and build robots and assistive technology.
+I'm a student at Brown University interested in building tools that help people and improve their daily lives. Before transferring to Brown, I completed my Freshman at Cornell University, and before that, I grew up in New York City. My interests lie in computational fabrication, computer vision, deep learning, and application-specific integrated circuits. Outside of research, I also work on Project Teams and individual projects, where I've developed full-stack websites and iOS apps, and design and build robots and assistive technology.
 
 Welcome to my engineering portfolio, where I highlight some of the projects I've had the privilege to work on. 
 
@@ -52,31 +52,33 @@ rendering with **p5.js (WebGL)**, enabling real-time design of programmable cera
 
 <table>
   <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/cerapiper/editor-shot.png" width="100%"><br>
       <em>The CeraPiper browser-based CAM tool</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/cerapiper/scf25-1-fig3.jpg" width="100%"><br>
       <em>The CeraPiper machine</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/cerapiper/scf25-1-fig10.jpg" width="100%"><br>
       <em>Custom ceramic pipes produced by CeraPiper</em>
     </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" width="25%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
         <img src="images/cerapiper/IMG_6169.JPG" width="100%"><br>
         <em>Presenting with Ofer Berman (First Author) at ACM SCF '25</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
         <img src="images/cerapiper/software_architecture.png" width="100%"><br>
         <em>Software architecture diagram</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
         <img src="images/cerapiper/scf25-1-fig5.jpg" width="100%"><br>
-        <em>CAD rendering of controllable die</em>
+        <em>CAD rendering of controllable die; this is attached over the opening of the extruder, allowing us to customize the diameter of the opening in realtime</em>
     </td>
   </tr>
 </table>
@@ -161,17 +163,19 @@ I contributed to the subchondral bone project investigating how osteocyte networ
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <img src="images/estroff/IMG_1BC0D7BF9E40-1.jpeg" width="100%"><br>
-      <em>Image segmentation pipeline</em>
-    </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/estroff/IMG_422B951B84E3-1.jpeg" width="100%"><br>
       <em>Human bone samples</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/estroff/IMG_2710.jpg" width="100%"><br>
       <em>Processed ROIs ready for morphological analysis</em>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none;">
+      <img src="images/estroff/IMG_1BC0D7BF9E40-1.jpeg" width="100%"><br>
+      <em>Image segmentation pipeline</em>
     </td>
   </tr>
 </table>
@@ -415,7 +419,7 @@ As a member of the Cornell Assistive Technologies Project Team during my freshma
 **CAD • 3D Printing • Laser Cutting • Python • UV-Activated Resin • Recycling Systems**
 
 🔗 **Article:** https://www.avenues.org/world-of-avenues/the-nibbler-project2         
-🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler
+🔗 **Repo:** https://github.com/hawkbsilleee/Project-Nibbler            
 🔗 **NASA Award Article:** https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/coeci-news/nasa-names-winners-in-waste-to-base-materials-challenge/
  
 **🏆 Recognition:** Won Best in Class in NASA's Waste to Base Materials Challenge, filed US Patent (Application No.: 17/316,887)
@@ -436,15 +440,17 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <img src="images/nibbler/ag6ela.gif" width="100%"><br>
+    <td align="center" colspan="2" style="border: none;">
+      <img src="images/nibbler/ag6ela.gif" width="70%"><br>
       <em>The Nibbler machine printing</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/nibbler/nibbler_image_1.jpeg" width="100%"><br>
       <em>Printed flower pot</em>
     </td>
-    <td align="center" width="33%" style="border: none;">
+    <td align="center" width="50%" style="border: none;">
       <img src="images/nibbler/shredder.jpeg" width="100%"><br>
       <em>Shredder shredding cardboard</em>
     </td>
@@ -469,14 +475,13 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 🔗 **CV Repo:** https://github.com/hawkbsilleee/FTC-CV         
 🔗 **Power-draw Analysis Repo:** https://github.com/hawkbsilleee/FTC-Data-logging
 
-**🏆 Recognition:** Won NYC Championships, advanced to the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams); Won several awards at competition including Inspire, Think, Motivate, Connect, and Design
+**🏆 Recognition:** Club President (12th Grade), Team Captain (10th-11th Grade); Won NYC Championships, advanced to the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams); Won several awards at competition including Inspire, Think, Motivate, Connect, and Design
 
 ### ⭐ Highlights  
 - Led school's largest engineering club (**90+ members**), mentoring **8 FTC teams** in CAD, fabrication, and Java programming.  
 - Designed the robot using Fusion360 and Onshape; fabricated components via 3D-printing, laser-cutting, and CNC-milling. 
 - Programmed computer-vision algorithm in Java to detect the color of game-elements the robot collected in constant time; programmed data-logging script in Java to analyze the intake speed under different drivetrain power draws. 
-- Competed at the **FIRST Tech Challenge World Championships** (Top 1% of 7,000 teams) and placed 1st overall at NYC Championships.  
-- Taught **40+ workshops** for low-income students and raised **$4K** to start an FIRST Lego Robotics (FLL) team for the Hudson Guild, a local community center; coached this FLL team (the Hudson Guild heat) during my senior year
+- Taught **40+ workshops** for students in our neighborhood and raised **$4K** to start an FIRST Lego Robotics (FLL) team for the Hudson Guild, a local community center; I coached this FLL team (the Hudson Guild heat) during my senior year
 
 <table>
   <tr style="border: none;">
@@ -496,15 +501,15 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
   <tr style="border: none;">
     <td align="center" width="25%" style="border: none;">
         <img src="images/robotics/odometry.png" width="100%"><br>
-        <em>3 dead wheels (odometry pods) track the robot's position. We modelled motor dynamics to calculate voltage output for a target velocity. With a PID controller to correct position, our robot could follow paths accurately autonomously.</em>
+        <em>3 dead wheels (odometry pods) track the robot's position. Modelled motor dynamics to calculate voltage output for a target velocity. With a PID controller to correct position, our robot could follow paths accurately autonomously.</em>
     </td>
     <td align="center" width="33%" style="border: none;">
       <img src="images/robotics/full-render.png" width="100%"><br>
-      <em>I helped design the robot fully in Onshape and rendered it with Fusion 360</em>
+      <em>Designed the robot fully in Onshape and rendered it with Fusion 360</em>
     </td>
     <td align="center" width="33%" style="border: none;">
         <img src="images/robotics/april-tag.png" width="100%"><br>
-        <em>We used computer vision (OpenCV) to detect in game elements. We also re-localized using the backdrop april tags by transforming the displacement about the heading of the robot.</em>
+        <em>Used computer vision (OpenCV) to detect in game elements, such as color thresholding to know the color of each game element we intaked. Also re-localized the robot autonomously using the backdrop april tags by transforming the displacement about the heading of the robot.</em>
     </td>
   </tr>
 </table>
@@ -514,6 +519,54 @@ The Nibbler Machine is capable of building 3D objects like a cup from assembling
 <br>
 
 # 🧪 Independent Projects
+
+## **MintBox — Co-Founder & President**
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <img src="images/mintbox/babysproutog.png" width="100%"><br>
+      <em>This was the first prototype of the Baby Sprout, which I designed and fabricated out of 100% laser-cut wood.  </em>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="images/mintbox/group.png" width="100%"><br>
+      <em>We built indoor gardening planters and donated gardening kits to the Covenant House, a youth homeless shelter in NYC</em>
+    </td>
+  </tr>
+</table>
+
+🔗 **Website:** https://www.mintboxny.com
+
+**🏆 Recognition:** Won the SeedBank entrepreneurship grant twice and the Lawrenceville Welles Award
+
+### ⭐ Overview  
+I co-founded and lead MintBox, a project aimed at democratizing access to fresh produce in NYC through sustainable and easy-to-use gardening products. Since April 2020, MintBox has raised over **$2.5K** from selling gardening kits online and in-person at farmers' markets.
+
+### 🔧 Contributions  
+- Co-founded MintBox to make fresh produce accessible through sustainable gardening solutions
+- Raised over **$2.5K** from selling gardening kits online and in-person at farmers' markets
+- Donated profits to build indoor gardening planters for the Hudson Guild Fulton Center
+- Held workshops to teach plant science and nutrition to elementary school students
+- Donated gardening kits to the Covenant House youth homeless shelters across NYC
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/mintbox/kithomesquare.png" width="100%"><br>
+      <em>The Baby Sprout gardening kit</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/mintbox/plasquare.png" width="100%"><br>
+      <em>Self-watering gardening planter</em>
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="images/mintbox/caddingplanter.png" width="100%"><br>
+      <em>CAD design for the self-watering gardening planter</em>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## **Tick Spotter — Computer Vision Project**  
 
@@ -570,41 +623,6 @@ Competed in an iOS development hackathon, creating a lost-and-found platform for
 ### 🔧 Technical Contributions  
 - Implemented secure login with **Google OAuth**, and RESTful API backend with item posting, matching, and leaderboard features.  
 - Built frontend pages with UIKit to display leaderboards, lost item requests, and found item posts.  
-
----
-
-## **MintBox — Co-Founder & President**
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="33%" style="border: none;">
-      <img src="images/mintbox/kithomesquare.png" width="100%"><br>
-      <em>The Baby Sprout gardening kit</em>
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <img src="images/mintbox/plasquare.png" width="100%"><br>
-      <em>Self-watering gardening planter</em>
-    </td>
-    <td align="center" width="33%" style="border: none;">
-      <img src="images/mintbox/caddingplanter.png" width="100%"><br>
-      <em>CAD design for the self-watering gardening planter</em>
-    </td>
-  </tr>
-</table>
-
-🔗 **Website:** https://www.mintboxny.com
-
-**🏆 Recognition:** Won the SeedBank entrepreneurship grant twice and the Lawrenceville Welles Award
-
-### ⭐ Overview  
-I co-founded and lead MintBox, a project aimed at democratizing access to fresh produce in NYC through sustainable and easy-to-use gardening products. Since April 2020, MintBox has raised over **$2.5K** from selling gardening kits online and in-person at farmers' markets.
-
-### 🔧 Contributions  
-- Co-founded MintBox to make fresh produce accessible through sustainable gardening solutions
-- Raised over **$2.5K** from selling gardening kits online and in-person at farmers' markets
-- Donated profits to build indoor gardening planters for the Hudson Guild Fulton Center
-- Held workshops to teach plant science and nutrition to elementary school students
-- Donated gardening kits to the Covenant House youth homeless shelters across NYC
 
 ---
 
