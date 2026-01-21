@@ -11,7 +11,7 @@
 
 <!-- # 👋 Hi, I'm Ethan Seiz -->
 
-I'm a student at Brown University interested in building tools that help people and improve their daily lives. Before transferring to Brown, I completed my Freshman at Cornell University, and before that, I grew up in New York City. My interests lie in computational fabrication, computer vision, deep learning, and application-specific integrated circuits. Outside of research, I also work on Project Teams and individual projects, where I've developed full-stack websites and iOS apps, and design and build robots and assistive technology.
+I'm a student at Brown University interested in building tools that help people and improve their daily lives. Before transferring to Brown, I completed my Freshman at Cornell University, and before that, I grew up in New York City. I have many interests, including full-stack development, computational fabrication, computer vision, deep learning, and application-specific integrated circuits. Outside of research, I also work on Project Teams and individual projects, where I've developed full-stack websites and iOS apps, and design and build robots and assistive technology.
 
 Welcome to my engineering portfolio, where I highlight some of the projects I've had the privilege to work on. 
 
